@@ -32,8 +32,7 @@ public class Simulation {
 
         if(guess == numberToGuess) return true;
 
-        if(guess > numberToGuess) player.respond(true);
-        else player.respond(false);
+        player.respond(guess > numberToGuess);
 
         return false;
     }
@@ -41,15 +40,20 @@ public class Simulation {
     public void loopUntilPlayerSucceed(long maxTry) {
         //TODO implement me
         long timeStampStart = System.currentTimeMillis();
-        long maxTryTemp = maxTry;
         boolean success = false;
 
-        while(maxTryTemp != 0 && !nextRound()) maxTryTemp--;
+        while(maxTry != 0){
+            if(nextRound()){
+                success = true;
+                break;
+            }
+            maxTry--;
+        }
 
         Date timeToEndOfGame = new Date(System.currentTimeMillis() - timeStampStart);
         String date = new SimpleDateFormat("mm:ss.SSS").format(timeToEndOfGame);
 
-        if(success) System.out.println("The player took " + date + " minute(s) and found the solution in less than " + maxTry + " tries");
-        else System.out.println("The player took " + date + " minute(s) and did not find the solution in less than " + maxTry + " tries");
+        if(success) System.out.println("The player took " + date + " minute(s) and found the result");
+        else System.out.println("The player took " + date + " minute(s) and did not find the result");
     }
 }
