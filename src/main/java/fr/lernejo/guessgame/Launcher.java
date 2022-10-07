@@ -11,6 +11,6 @@ public class Launcher {
         long randomNumber = random.nextLong(100); // génère un nombre entre Long.MIN_VALUE et Long.MAX_VALUE
         simulation.initialize(randomNumber);
 
-        simulation.loopUntilPlayerSucceed();
+        simulation.loopUntilPlayerSucceed(10);
     }
 }
