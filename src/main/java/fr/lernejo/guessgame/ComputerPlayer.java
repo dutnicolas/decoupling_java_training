@@ -7,12 +7,12 @@ public class ComputerPlayer implements Player {
 
     private final Logger logger = LoggerFactory.getLogger("computer");
 
-    private long lowerBorder = 0;
-    private long higherBorder = 100;
+    private long lowerBorder = Long.MIN_VALUE;
+    private long higherBorder = Long.MAX_VALUE;
 
     @Override
     public long askNextGuess() {
-        System.out.println((lowerBorder + higherBorder) / 2);
+        logger.log(String.valueOf((lowerBorder + higherBorder) / 2));
         return (lowerBorder + higherBorder) / 2;
     }
 
@@ -20,11 +20,11 @@ public class ComputerPlayer implements Player {
     public void respond(boolean lowerOrGreater) {
         if(lowerOrGreater) {
             higherBorder = (lowerBorder + higherBorder) / 2;
-            logger.log("Lower");
+            logger.log("lower");
         }
         else {
             lowerBorder = (lowerBorder + higherBorder) / 2;
-            logger.log("Greater");
+            logger.log("greater");
         }
     }
 }

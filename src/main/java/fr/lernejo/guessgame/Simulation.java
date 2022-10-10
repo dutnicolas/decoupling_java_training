@@ -27,7 +27,7 @@ public class Simulation {
      */
     private boolean nextRound() {
         //TODO implement me
-        System.out.println("Enter your guess :");
+        logger.log("Enter your guess :");
         long guess = player.askNextGuess();
 
         if(guess == numberToGuess) return true;
@@ -53,7 +53,7 @@ public class Simulation {
         Date timeToEndOfGame = new Date(System.currentTimeMillis() - timeStampStart);
         String date = new SimpleDateFormat("mm:ss.SSS").format(timeToEndOfGame);
 
-        if(success) System.out.println("The player took " + date + " minute(s) and found the result");
-        else System.out.println("The player took " + date + " minute(s) and did not find the result");
+        if(success) logger.log("The player won, taking " + date + " minute(s)");
+        else logger.log("The player did not win and took " + date + " minute(s)");
     }
 }
