@@ -8,7 +8,9 @@ public class LoggerFactory {
 
         //return new ContextualLogger(name, new ConsoleLogger());
         //return new ContextualLogger(name, new FileLogger("log/log.txt"));
-        return new CompositeLogger(new ContextualLogger(name, new ConsoleLogger()), new ContextualLogger(name, new FileLogger("log/log.txt")));
+        //return new CompositeLogger(new ContextualLogger(name, new ConsoleLogger()), new ContextualLogger(name, new FileLogger("log/log.txt")));
+        //return new CompositeLogger(new ContextualLogger(name, new ConsoleLogger()), new FilteredLogger(new ContextualLogger(name, new FileLogger("log/log.txt")), message -> message.contains("simulation")));
+        return new CompositeLogger(new ContextualLogger(name, new ConsoleLogger()), new ContextualLogger(name, new FilteredLogger(new FileLogger("log/log.txt"), message -> message.contains("simulation"))));
     }
 
 }
