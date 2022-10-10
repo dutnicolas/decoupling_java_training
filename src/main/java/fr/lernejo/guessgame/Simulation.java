@@ -53,7 +53,7 @@ public class Simulation {
         Date timeToEndOfGame = new Date(System.currentTimeMillis() - timeStampStart);
         String date = new SimpleDateFormat("mm:ss.SSS").format(timeToEndOfGame);
 
-        if(success) logger.log("The player won, taking " + date + " minute(s)");
+        if(success) logger.log("The player won , taking " + date + " minute(s)");
         else logger.log("The player did not win and took " + date + " minute(s)");
     }
 }
