@@ -12,6 +12,7 @@ public class HumanPlayer implements Player{
 
     @Override
     public long askNextGuess() {
+        logger.log("Enter your guess :");
         return scanner.nextLong();
     }
 

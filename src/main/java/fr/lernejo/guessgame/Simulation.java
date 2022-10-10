@@ -27,7 +27,6 @@ public class Simulation {
      */
     private boolean nextRound() {
         //TODO implement me
-        logger.log("Enter your guess :");
         long guess = player.askNextGuess();
 
         if(guess == numberToGuess) return true;
