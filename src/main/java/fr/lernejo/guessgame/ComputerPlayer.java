@@ -20,11 +20,11 @@ public class ComputerPlayer implements Player {
     public void respond(boolean lowerOrGreater) {
         if(lowerOrGreater) {
             higherBorder = (lowerBorder + higherBorder) / 2;
-            logger.log("lower");
+            //logger.log("lower");
         }
         else {
             lowerBorder = (lowerBorder + higherBorder) / 2;
-            logger.log("greater");
+            //logger.log("greater");
         }
     }
 }
