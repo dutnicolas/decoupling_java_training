@@ -1,0 +1,192 @@
+2022-10-10 10:10:58.601 simulation Enter your guess :
+2022-10-10 10:10:58.612 computer 0
+2022-10-10 10:10:58.614 computer greater
+2022-10-10 10:10:58.616 simulation Enter your guess :
+2022-10-10 10:10:58.617 computer 4611686018427387903
+2022-10-10 10:10:58.619 computer lower
+2022-10-10 10:10:58.620 simulation Enter your guess :
+2022-10-10 10:10:58.622 computer 2305843009213693951
+2022-10-10 10:10:58.623 computer lower
+2022-10-10 10:10:58.625 simulation Enter your guess :
+2022-10-10 10:10:58.626 computer 1152921504606846975
+2022-10-10 10:10:58.628 computer lower
+2022-10-10 10:10:58.630 simulation Enter your guess :
+2022-10-10 10:10:58.632 computer 576460752303423487
+2022-10-10 10:10:58.633 computer lower
+2022-10-10 10:10:58.634 simulation Enter your guess :
+2022-10-10 10:10:58.635 computer 288230376151711743
+2022-10-10 10:10:58.637 computer lower
+2022-10-10 10:10:58.638 simulation Enter your guess :
+2022-10-10 10:10:58.639 computer 144115188075855871
+2022-10-10 10:10:58.641 computer lower
+2022-10-10 10:10:58.642 simulation Enter your guess :
+2022-10-10 10:10:58.643 computer 72057594037927935
+2022-10-10 10:10:58.644 computer lower
+2022-10-10 10:10:58.645 simulation Enter your guess :
+2022-10-10 10:10:58.646 computer 36028797018963967
+2022-10-10 10:10:58.647 computer lower
+2022-10-10 10:10:58.648 simulation Enter your guess :
+2022-10-10 10:10:58.649 computer 18014398509481983
+2022-10-10 10:10:58.651 computer lower
+2022-10-10 10:10:58.652 simulation Enter your guess :
+2022-10-10 10:10:58.653 computer 9007199254740991
+2022-10-10 10:10:58.654 computer lower
+2022-10-10 10:10:58.656 simulation Enter your guess :
+2022-10-10 10:10:58.657 computer 4503599627370495
+2022-10-10 10:10:58.658 computer lower
+2022-10-10 10:10:58.659 simulation Enter your guess :
+2022-10-10 10:10:58.660 computer 2251799813685247
+2022-10-10 10:10:58.661 computer lower
+2022-10-10 10:10:58.662 simulation Enter your guess :
+2022-10-10 10:10:58.663 computer 1125899906842623
+2022-10-10 10:10:58.665 computer lower
+2022-10-10 10:10:58.666 simulation Enter your guess :
+2022-10-10 10:10:58.667 computer 562949953421311
+2022-10-10 10:10:58.668 computer lower
+2022-10-10 10:10:58.669 simulation Enter your guess :
+2022-10-10 10:10:58.670 computer 281474976710655
+2022-10-10 10:10:58.671 computer lower
+2022-10-10 10:10:58.672 simulation Enter your guess :
+2022-10-10 10:10:58.674 computer 140737488355327
+2022-10-10 10:10:58.675 computer lower
+2022-10-10 10:10:58.676 simulation Enter your guess :
+2022-10-10 10:10:58.678 computer 70368744177663
+2022-10-10 10:10:58.679 computer lower
+2022-10-10 10:10:58.680 simulation Enter your guess :
+2022-10-10 10:10:58.681 computer 35184372088831
+2022-10-10 10:10:58.682 computer lower
+2022-10-10 10:10:58.684 simulation Enter your guess :
+2022-10-10 10:10:58.685 computer 17592186044415
+2022-10-10 10:10:58.686 computer lower
+2022-10-10 10:10:58.687 simulation Enter your guess :
+2022-10-10 10:10:58.688 computer 8796093022207
+2022-10-10 10:10:58.689 computer lower
+2022-10-10 10:10:58.692 simulation Enter your guess :
+2022-10-10 10:10:58.693 computer 4398046511103
+2022-10-10 10:10:58.694 computer lower
+2022-10-10 10:10:58.695 simulation Enter your guess :
+2022-10-10 10:10:58.696 computer 2199023255551
+2022-10-10 10:10:58.697 computer lower
+2022-10-10 10:10:58.698 simulation Enter your guess :
+2022-10-10 10:10:58.700 computer 1099511627775
+2022-10-10 10:10:58.701 computer lower
+2022-10-10 10:10:58.702 simulation Enter your guess :
+2022-10-10 10:10:58.703 computer 549755813887
+2022-10-10 10:10:58.704 computer lower
+2022-10-10 10:10:58.705 simulation Enter your guess :
+2022-10-10 10:10:58.706 computer 274877906943
+2022-10-10 10:10:58.707 computer lower
+2022-10-10 10:10:58.708 simulation Enter your guess :
+2022-10-10 10:10:58.709 computer 137438953471
+2022-10-10 10:10:58.711 computer lower
+2022-10-10 10:10:58.712 simulation Enter your guess :
+2022-10-10 10:10:58.713 computer 68719476735
+2022-10-10 10:10:58.714 computer lower
+2022-10-10 10:10:58.716 simulation Enter your guess :
+2022-10-10 10:10:58.717 computer 34359738367
+2022-10-10 10:10:58.718 computer lower
+2022-10-10 10:10:58.720 simulation Enter your guess :
+2022-10-10 10:10:58.721 computer 17179869183
+2022-10-10 10:10:58.722 computer lower
+2022-10-10 10:10:58.723 simulation Enter your guess :
+2022-10-10 10:10:58.724 computer 8589934591
+2022-10-10 10:10:58.725 computer lower
+2022-10-10 10:10:58.726 simulation Enter your guess :
+2022-10-10 10:10:58.727 computer 4294967295
+2022-10-10 10:10:58.728 computer lower
+2022-10-10 10:10:58.729 simulation Enter your guess :
+2022-10-10 10:10:58.730 computer 2147483647
+2022-10-10 10:10:58.732 computer lower
+2022-10-10 10:10:58.733 simulation Enter your guess :
+2022-10-10 10:10:58.735 computer 1073741823
+2022-10-10 10:10:58.736 computer lower
+2022-10-10 10:10:58.738 simulation Enter your guess :
+2022-10-10 10:10:58.739 computer 536870911
+2022-10-10 10:10:58.740 computer lower
+2022-10-10 10:10:58.742 simulation Enter your guess :
+2022-10-10 10:10:58.743 computer 268435455
+2022-10-10 10:10:58.744 computer lower
+2022-10-10 10:10:58.745 simulation Enter your guess :
+2022-10-10 10:10:58.746 computer 134217727
+2022-10-10 10:10:58.747 computer lower
+2022-10-10 10:10:58.748 simulation Enter your guess :
+2022-10-10 10:10:58.749 computer 67108863
+2022-10-10 10:10:58.750 computer lower
+2022-10-10 10:10:58.751 simulation Enter your guess :
+2022-10-10 10:10:58.752 computer 33554431
+2022-10-10 10:10:58.753 computer lower
+2022-10-10 10:10:58.754 simulation Enter your guess :
+2022-10-10 10:10:58.755 computer 16777215
+2022-10-10 10:10:58.756 computer lower
+2022-10-10 10:10:58.757 simulation Enter your guess :
+2022-10-10 10:10:58.758 computer 8388607
+2022-10-10 10:10:58.759 computer lower
+2022-10-10 10:10:58.760 simulation Enter your guess :
+2022-10-10 10:10:58.761 computer 4194303
+2022-10-10 10:10:58.762 computer lower
+2022-10-10 10:10:58.763 simulation Enter your guess :
+2022-10-10 10:10:58.765 computer 2097151
+2022-10-10 10:10:58.766 computer lower
+2022-10-10 10:10:58.767 simulation Enter your guess :
+2022-10-10 10:10:58.768 computer 1048575
+2022-10-10 10:10:58.769 computer lower
+2022-10-10 10:10:58.770 simulation Enter your guess :
+2022-10-10 10:10:58.770 computer 524287
+2022-10-10 10:10:58.771 computer lower
+2022-10-10 10:10:58.772 simulation Enter your guess :
+2022-10-10 10:10:58.773 computer 262143
+2022-10-10 10:10:58.774 computer lower
+2022-10-10 10:10:58.775 simulation Enter your guess :
+2022-10-10 10:10:58.776 computer 131071
+2022-10-10 10:10:58.777 computer lower
+2022-10-10 10:10:58.778 simulation Enter your guess :
+2022-10-10 10:10:58.779 computer 65535
+2022-10-10 10:10:58.780 computer lower
+2022-10-10 10:10:58.781 simulation Enter your guess :
+2022-10-10 10:10:58.782 computer 32767
+2022-10-10 10:10:58.783 computer lower
+2022-10-10 10:10:58.784 simulation Enter your guess :
+2022-10-10 10:10:58.785 computer 16383
+2022-10-10 10:10:58.786 computer lower
+2022-10-10 10:10:58.787 simulation Enter your guess :
+2022-10-10 10:10:58.788 computer 8191
+2022-10-10 10:10:58.789 computer lower
+2022-10-10 10:10:58.790 simulation Enter your guess :
+2022-10-10 10:10:58.791 computer 4095
+2022-10-10 10:10:58.791 computer lower
+2022-10-10 10:10:58.792 simulation Enter your guess :
+2022-10-10 10:10:58.793 computer 2047
+2022-10-10 10:10:58.794 computer lower
+2022-10-10 10:10:58.795 simulation Enter your guess :
+2022-10-10 10:10:58.796 computer 1023
+2022-10-10 10:10:58.796 computer lower
+2022-10-10 10:10:58.797 simulation Enter your guess :
+2022-10-10 10:10:58.798 computer 511
+2022-10-10 10:10:58.799 computer lower
+2022-10-10 10:10:58.800 simulation Enter your guess :
+2022-10-10 10:10:58.801 computer 255
+2022-10-10 10:10:58.802 computer lower
+2022-10-10 10:10:58.803 simulation Enter your guess :
+2022-10-10 10:10:58.804 computer 127
+2022-10-10 10:10:58.805 computer lower
+2022-10-10 10:10:58.807 simulation Enter your guess :
+2022-10-10 10:10:58.808 computer 63
+2022-10-10 10:10:58.809 computer lower
+2022-10-10 10:10:58.810 simulation Enter your guess :
+2022-10-10 10:10:58.812 computer 31
+2022-10-10 10:10:58.813 computer greater
+2022-10-10 10:10:58.814 simulation Enter your guess :
+2022-10-10 10:10:58.816 computer 47
+2022-10-10 10:10:58.817 computer lower
+2022-10-10 10:10:58.819 simulation Enter your guess :
+2022-10-10 10:10:58.820 computer 39
+2022-10-10 10:10:58.821 computer greater
+2022-10-10 10:10:58.822 simulation Enter your guess :
+2022-10-10 10:10:58.823 computer 43
+2022-10-10 10:10:58.825 computer lower
+2022-10-10 10:10:58.826 simulation Enter your guess :
+2022-10-10 10:10:58.827 computer 41
+2022-10-10 10:10:58.829 computer greater
+2022-10-10 10:10:58.830 simulation Enter your guess :
+2022-10-10 10:10:58.831 computer 42
+2022-10-10 10:10:58.923 simulation The player won, taking 00:00.305 minute(s)

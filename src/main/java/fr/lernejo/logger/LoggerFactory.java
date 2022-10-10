@@ -7,8 +7,8 @@ public class LoggerFactory {
     public static Logger getLogger(String name){
 
         //return new ContextualLogger(name, new ConsoleLogger());
-        //return new FileLogger("log/log.txt");
-        return new ContextualLogger(name, new FileLogger("log/log.txt"));
+        //return new ContextualLogger(name, new FileLogger("log/log.txt"));
+        return new CompositeLogger(new ContextualLogger(name, new ConsoleLogger()), new ContextualLogger(name, new FileLogger("log/log.txt")));
     }
 
 }
